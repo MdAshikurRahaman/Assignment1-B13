@@ -54,7 +54,7 @@ nav .menu{
 .hero-bg{
   position: relative;
   height: 85vh;
-  background: url("/assets/hero-bg.png") ;
+  background: url("assets/hero-bg.png") ;
   background-image: cover;
 }
 
